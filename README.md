@@ -1,1 +1,1 @@
-# eliminar_git
+# Migthy Ducks Hockey League
